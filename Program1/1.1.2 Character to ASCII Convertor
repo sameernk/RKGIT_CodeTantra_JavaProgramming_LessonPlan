@@ -1,0 +1,13 @@
+package q22546;
+import java. util.scanner;
+
+public class CharCodeQuest{
+  public static void main(Strings[] args){
+    Scanner scanner = new Scanner(System.in);
+    char magicalChar = scanner.next().charAt(0);
+    
+    int c=(int)magica1Char;
+    System.out.println(c);
+    scanner.close();
+  }
+}
